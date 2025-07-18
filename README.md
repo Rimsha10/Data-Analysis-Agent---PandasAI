@@ -14,3 +14,4 @@ A conversational data analysis assistant powered by [PandasAI](https://github.co
 
 - Python 3.8+
 - Google Colab or Jupyter Notebook recommended
+- GROQ [API Key](https://console.groq.com/keys)
