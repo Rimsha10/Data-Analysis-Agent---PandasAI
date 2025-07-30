@@ -38,6 +38,6 @@ A conversational data analysis assistant built with [**PandasAI**](https://githu
 
 1. Clone this repository and open the notebook in Google Colab or Jupyter.
 2. Install dependencies
-3. Add your Groq API Key in the config cell.
-4. Upload your dataset.
+3. Upload your dataset.
+4. Add your Groq API Key.
 5. Start chatting with your data!
