@@ -4,7 +4,7 @@
 
 A conversational data analysis assistant built with [**PandasAI**](https://github.com/gventuri/pandas-ai) (v2) and large language models (LLMs). This tool lets you interact with your CSV datasets using natural language — ask questions, explore patterns, and generate visual insights with ease.
 
-> ⚠️ **Note**: This project uses **PandasAI v2**, a stable release suitable for production-level demos. While **PandasAI v3.0** is in beta with new features, v2 was selected for its reliability during live webinar demonstrations.
+⚠️ **Note**: This project uses **PandasAI v2**, a stable release suitable for production-level demos. While **PandasAI v3.0** is in beta with new features, v2 was selected for its reliability during live webinar demonstrations.
 
 ---
 
