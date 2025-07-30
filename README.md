@@ -1,5 +1,3 @@
----
-
 # 🧠 Data Analysis Agent using PandasAI
 
 A conversational data analysis assistant built with [**PandasAI**](https://github.com/gventuri/pandas-ai) (v2) and large language models (LLMs). This tool lets you interact with your CSV datasets using natural language — ask questions, explore patterns, and generate visual insights with ease.
